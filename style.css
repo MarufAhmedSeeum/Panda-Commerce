@@ -3,7 +3,7 @@
    background-color: #FBEBE9
 }
 .container{
-   margin-bottom: 85px;
+   margin-bottom: 100px;
 }
 
 .carousel-item
@@ -24,3 +24,76 @@ padding: 20px 40px;
    cursor: pointer;
 
 }
+
+.cat1{
+   background-color: linear-gradient(,orange,rgb(255, 208, 0),rgb(255, 230, 0) );
+
+   background-color:orange;
+}
+.cat2{
+   background-color: crimson;
+
+   
+}
+.cat3{
+  
+   background-color:rgb(39, 39, 255);
+
+
+}
+
+.cat1,.cat2,.cat3{
+   padding: 10px 30px;
+   color: white;
+   border-radius: 10px;
+
+}
+
+.categories img{
+   width: 100px;
+}
+.card{
+
+   border: none;
+   box-shadow: 10px 20px 20px lightgrey;
+
+}
+.card-footer{
+   border: none;
+   background-color: white;
+
+
+}
+
+.contact{
+
+   height: 50%;
+   width: 83%;
+   align-items: center;
+}
+.contact h6{
+   color:gray;
+}
+
+ footer{
+      text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
